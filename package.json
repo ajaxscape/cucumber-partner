@@ -65,7 +65,7 @@
     "commander": "^2.9.0",
     "lodash": "^4.17.2",
     "selenium-webdriver": "^3.0.1",
-    "snyk": "^1.192.4"
+    "snyk": "^1.317.0"
   },
   "snyk": true
 }
